@@ -1,0 +1,30 @@
+This framework is designed for people who is scared about AJAX.
+
+It's very simple to use.
+
+Just put the CSS class "_ajax" in the anchor you want to respond by ajax.
+
+There are some previously configuration.
+
+At the simple-ajax.js, you need to edit the following lines: 8, 79.
+
+Line 8: Put here the class you want the container to have when simple-ajax is loading your page.
+
+Line 79: Put here the default container to simple-ajax load your contents.
+
+simple-ajax has lot of features(they will be describe soon), this is the basis usage.
+
+
+Esse framework foi pensado para pessoas que tem medo de AJAX.
+
+É muito fácil de usar.
+
+Coloque a classe de CSS "_ajax" no link que você deseja que funcione por ajax.
+
+Existem algumas configurações inicias.
+
+No arquivo simple-ajax.js, você precisa editar as linhas: 8, 79.
+
+Na linha 7 e linha 78 existem as descrições do que precisa ser colocado para simple-ajax funcionar.
+
+simple-ajax tem muitas outras funcionalidades(elas vão ser descritas em breve), esse é o funcionamento básico.
